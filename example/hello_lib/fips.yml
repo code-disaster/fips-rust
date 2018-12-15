@@ -1,0 +1,9 @@
+---
+imports:
+  fips-rust:
+    git: https://github.com/code-disaster/fips-rust.git
+exports:
+  header-dirs:
+    - include
+  modules:
+    hello_lib: .

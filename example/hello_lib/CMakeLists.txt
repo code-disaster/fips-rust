@@ -1,0 +1,1 @@
+fips_rust_cargo_lib(hello_lib)

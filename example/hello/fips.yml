@@ -1,0 +1,4 @@
+---
+imports:
+  hello_lib:
+    git: .
